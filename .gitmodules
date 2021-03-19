@@ -1,6 +1,6 @@
 [submodule "third_party/rai"]
 	path = third_party/rai
-	url = git@gitlab.tubit.tu-berlin.de:lis/rai.git
+	url = https://gitlab.tubit.tu-berlin.de/lis/rai.git
 [submodule "third_party/maskrcnn-benchmark"]
 	path = third_party/maskrcnn-benchmark
 	url = https://github.com/montioo/maskrcnn-benchmark.git
