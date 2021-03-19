@@ -1,0 +1,30 @@
+# .gitignore for marius-keypoints (LIS WS20/21)
+
+# macOS folder display preferences
+.DS_Store
+
+# Python
+*__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+*.ipynb_checkpoints
+
+# VSCode
+.vscode/
+
+# rai log files
+*z.log.global
+
+# ROS
+lis_ws/devel/
+lis_ws/logs/
+lis_ws/build/
+
+# mankey tmp files
+mankey/training/tmp/
+mankey/training/ckpnt/
+
+# ignore trained models
+*.pth

@@ -1,0 +1,61 @@
+Training with: heatmap_integral_symm_ts.py
+Checkpoint directory: ckpnt/lstm_2021-02-28
+Started at 2021-02-28_12:10:21
+Processing:  /home/monti/Desktop/pdc/logs_proto/2021-02-26-15-02-41
+Processing:  /home/monti/Desktop/pdc/logs_proto/2021-02-26-15-20-43
+Processing:  /home/monti/Desktop/pdc/logs_proto/2021-02-26-15-44-21
+Processing:  /home/monti/Desktop/pdc/logs_proto/2021-02-26-16-02-42
+Processing:  /home/monti/Desktop/pdc/logs_proto/2021-02-26-16-18-33
+Processing:  /home/monti/Desktop/pdc/logs_proto/2021-02-26-16-34-42
+Processing:  /home/monti/Desktop/pdc/logs_proto/2021-02-26-16-51-43
+Processing:  /home/monti/Desktop/pdc/logs_proto/2021-02-26-17-09-53
+Processing:  /home/monti/Desktop/pdc/logs_proto/2021-02-26-17-27-01
+Processing:  /home/monti/Desktop/pdc/logs_proto/2021-02-26-17-44-21
+Processing:  /home/monti/Desktop/pdc/logs_proto/2021-02-26-18-00-40
+Processing:  /home/monti/Desktop/pdc/logs_proto/2021-02-26-18-17-31
+Processing:  /home/monti/Desktop/pdc/logs_proto/2021-02-26-20-11-20
+Processing:  /home/monti/Desktop/pdc/logs_proto/2021-02-26-20-32-34
+Processing:  /home/monti/Desktop/pdc/logs_proto/2021-02-26-20-56-51
+Processing:  /home/monti/Desktop/pdc/logs_proto/2021-02-26-21-22-01
+Processing:  /home/monti/Desktop/pdc/logs_proto/2021-02-26-21-41-27
+The number of images is 30435
+Processing:  /home/monti/Desktop/pdc/logs_proto/2021-02-26-14-42-25
+Processing:  /home/monti/Desktop/pdc/logs_proto/2021-02-26-19-50-22
+Processing:  /home/monti/Desktop/pdc/logs_proto/2021-02-26-21-59-43
+The number of images is 5770
+The learning rate is  0.0002
+Iteration 0 in epoch 0
+The averaged pixel error is (pixel in 128x128 image): 6.696738433837891
+The averaged depth error is (mm): 16.3373779296875
+Iteration 400 in epoch 0
+The averaged pixel error is (pixel in 128x128 image): 6.482765960693359
+The averaged depth error is (mm): 8.147926330566406
+Iteration 800 in epoch 0
+The averaged pixel error is (pixel in 128x128 image): 5.588196563720703
+The averaged depth error is (mm): 11.372112274169922
+Iteration 1200 in epoch 0
+The averaged pixel error is (pixel in 128x128 image): 5.894903182983398
+The averaged depth error is (mm): 9.544841766357422
+Epoch 0
+The training averaged pixel error is (pixel in 128x128 image): 27.232728542317226
+The training averaged depth error is (mm):  70.55405054520128
+Validation for epoch 0
+The averaged pixel error is (pixel in 128x128 image): 28.32141175761998
+The averaged depth error is (mm): 48.15365873899698
+--------------------
+The learning rate is  0.0002
+Iteration 0 in epoch 1
+The averaged pixel error is (pixel in 128x128 image): 5.7100677490234375
+The averaged depth error is (mm): 12.753531646728515
+Iteration 400 in epoch 1
+The averaged pixel error is (pixel in 128x128 image): 5.483631134033203
+The averaged depth error is (mm): 11.261995697021485
+Iteration 800 in epoch 1
+The averaged pixel error is (pixel in 128x128 image): 5.7690071105957035
+The averaged depth error is (mm): 8.979481506347657
+Iteration 1200 in epoch 1
+The averaged pixel error is (pixel in 128x128 image): 5.3488319396972654
+The averaged depth error is (mm): 10.38363037109375
+Epoch 1
+The training averaged pixel error is (pixel in 128x128 image): 27.041130652505228
+The training averaged depth error is (mm):  58.06511404464569
