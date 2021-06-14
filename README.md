@@ -45,7 +45,7 @@ git submodule update
 # Used by data generation and evaluatoin
 pip3 install pybind11 jupyter matplotlib
 # Used to train the model. PyTorch is also needed, look below.
-pip3 install Pillow pretrainedmodels attrs
+pip3 install Pillow pretrainedmodels attrs opencv-python
 # Used to visualize and inspect the network's structure
 pip3 install torchsummaryX torchviz
 ```
