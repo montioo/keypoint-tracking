@@ -72,11 +72,11 @@ You can also download the datasets that were created during development of this 
 
 All of these datasets feature a stick of varying length. The stick's and table's colors are chosen randomly.
 
-- [Dataset 1 - Simple](https://tubcloud.tu-berlin.de/s/c5gg7jpSGEE28aP): Stick is laying on different positions flat on the table while the camera is orbiting around it. 70000 samples, ~730 MB (deflated)
+- [Dataset 1 - Simple](https://mega.nz/file/47REBbBZ#nyPv2t-NV0b5wjyCjIbRvl4SZrjirLf5OSSqc_9wtOo): Stick is laying on different positions flat on the table while the camera is orbiting around it. 70000 samples, ~730 MB (deflated)
 ![Dataset 1 - Simple - Example Images](../docs_data/simple_example.png)
-- [Dataset 2 - Gripper](https://tubcloud.tu-berlin.de/s/NA7NCTjjzsWdYgN): Stick is held by the robot's end effector. The arm is moved to different configurations and the camera is again taking pictures from different viewing angles. 30007 samples, ~670MB (deflated)
+- [Dataset 2 - Gripper](https://mega.nz/file/kzIwhboR#jcX7MeqacY3yR9BxhLXRdTbqupAp51523iL1Bory1Uc): Stick is held by the robot's end effector. The arm is moved to different configurations and the camera is again taking pictures from different viewing angles. 30007 samples, ~670MB (deflated)
 ![Dataset 2 - Gripper - Example Images](../docs_data/gripper_example.png)
-- [Dataset 3 - Time Series](https://tubcloud.tu-berlin.de/s/w5FDyRBZx5qPmHH): Setup as with Dataset 2, but this images are organized in sequences of five images. Five sequential images are related in a temporal context, i.e. show a continuous movement. The first image of each sequence has both keypoints visible, the other four images of each sequence may have one keypoint occluded by the robot itself or artificially inserted geometry. 82000 samples, ~2.2GB (deflated)
+- [Dataset 3 - Time Series](https://mega.nz/file/8ioxgTgT#8apgWFvK6SRZ2u1sF9SW42VE27otMbZQGkcG23aOp5M): Setup as with Dataset 2, but this images are organized in sequences of five images. Five sequential images are related in a temporal context, i.e. show a continuous movement. The first image of each sequence has both keypoints visible, the other four images of each sequence may have one keypoint occluded by the robot itself or artificially inserted geometry. 82000 samples, ~2.2GB (deflated)
 ![Dataset 3 - Time Series - Example Images](../docs_data/sequence_example.png)
 
 
