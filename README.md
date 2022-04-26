@@ -5,8 +5,8 @@ Learning and Intelligent Systems Project, TU Berlin, WS 20/21
 Marius Montebaur, Danny Driess, Jung-Su Ha, Marc Toussaint
 
 Media:
-[Final Presentation](https://tubcloud.tu-berlin.de/s/Qp5FALCixYzfnXJ),
-[Project Report](https://tubcloud.tu-berlin.de/s/qYYnQbwzm9GS9Qn),
+[Final Presentation](https://mega.nz/file/IzYwTKaB#mnDdbojZjYG2Ckhy_ZGLwsSNEsvpXSLaPUgKROfwWfI),
+[Project Report](https://mega.nz/file/53JyFD6J#AxAvlcULm5x8_VmBP54PgrfFgtjiwUPz4RoGRCaj7oE),
 [Project Video](https://youtu.be/elughHuADBA)
 
 
