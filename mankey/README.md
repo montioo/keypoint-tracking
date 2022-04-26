@@ -28,7 +28,7 @@ For more information on how a training data set is structured and generated, ref
 
 You can download the models that were trained on simulated images showing sticks.
 
-- Single Frame: Model that does keypoint detection on a single input image. [Download](https://tubcloud.tu-berlin.de/s/3LLFHC2AtwjBaoz)
-- Time Series: Keypoint detection on several consecutive images by using an LSTM. [Download](https://tubcloud.tu-berlin.de/s/Kk7rNwNRQMw66M6)
+- Single Frame: Model that does keypoint detection on a single input image. [Download](https://mega.nz/file/Mm5XFBgK#kqW35BxJduuuvjpPfUKMkmMnT9Eu3VBzMk6nXQ3ONGY)
+- Time Series: Keypoint detection on several consecutive images by using an LSTM. [Download](https://mega.nz/file/xjJGULqJ#n_klogvMJRgS2Vtld6vGRsV8fuJApZ4tHdFRuusnry8)
 
 Theses are the models used with the performance evaluation in the `evaluation/` subdirectory in this repository's root.
